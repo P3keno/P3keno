@@ -1,16 +1,18 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<!--
-**P3keno/P3keno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  Olá, meu nome é Fellipe Oliveira, tenho 18 anos e atualmente estou estudando programação.
+  No momento estou focado na parte do Front-end.
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  🦄 Linguagens: <strong>JavaScript</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  💼 Ferramentas: <strong>Visual Studio Code, Git & Github</strong>
+</p>  
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=p3keno&theme=dracula" width="400">
+</p>
