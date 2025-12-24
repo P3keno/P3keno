@@ -1,11 +1,15 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
-     min-width="400px" max-width="400px" width="400px" align="right" alt="Computer illustration">
+<img 
+  src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
+  width="400px"
+  align="right"
+  alt="Computer illustration"
+/>
 
 ## 👋 Olá, eu sou o Fellipe Oliveira
 
 Tenho **22 anos** e sou um **desenvolvedor Full Stack em formação**, com foco em **arquitetura moderna, performance e boas práticas**.
 
-Atualmente trabalho com **Front-end moderno (React / Next.js)** e **Back-end com Node.js e NestJS**, desenvolvendo aplicações escaláveis, bem estruturadas e seguras.
+Atualmente atuo com **Front-end moderno (React / Next.js)** e **Back-end com Node.js e NestJS**, desenvolvendo aplicações **escaláveis, bem estruturadas e seguras**.
 
 ---
 
@@ -15,7 +19,7 @@ Atualmente trabalho com **Front-end moderno (React / Next.js)** e **Back-end com
 ![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### ⚙️ Back-end
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -30,7 +34,7 @@ Atualmente trabalho com **Front-end moderno (React / Next.js)** e **Back-end com
 ## 🛠️ Ferramentas & Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -44,10 +48,16 @@ Atualmente trabalho com **Front-end moderno (React / Next.js)** e **Back-end com
 
 ---
 
-### 📫 Contato
-- GitHub: **@P3keno**
-- Sempre aberto a aprender, trocar ideias e evoluir 🚀
+## 📫 Contato
 
+<p align="left">
+  <a href="https://www.instagram.com/fellipeoliveira1047/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-DF0174?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/TFVfJCcJKu" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
+  </a>
+</p>
 
-
-
+💬 **Discord:** `@fellipeoliveira`  
+🚀 Sempre aberto a aprender, trocar ideias e evoluir.
